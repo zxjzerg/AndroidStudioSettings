@@ -1,0 +1,41 @@
+<templateSet group="Andrew">
+  <template name="single line javadoc" value="/** $comments$ */" description="add a single line java doc comment" toReformat="false" toShortenFQNames="true">
+    <variable name="comments" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="method performance start" value="&#10;// FIXME This is a debug log, remove before release&#10;long startMs = System.currentTimeMillis();&#10;" description="start monitor of a method performance" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="method performance end" value="&#10;// FIXME This is a debug log, remove before release&#10;Log.d(&quot;Performance&quot;, &quot;$name$ cost: &quot; + (System.currentTimeMillis() - startMs) + &quot;ms&quot;);&#10;" description="log the ellapsed time since &quot;method performance start&quot;" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="item" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="start method tracing" value="&#10;// FIXME This is a debug log, remove before release&#10;Debug.startMethodTracing(&quot;$file$&quot;);&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="file" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="stop method tracing" value="&#10;// FIXME This is a debug log, remove before release&#10;Debug.stopMethodTracing();&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="viewholder" value="class $name$(override val containerView: android.view.View?) : android.support.v7.widget.RecyclerView.ViewHolder(containerView), kotlinx.android.extensions.LayoutContainer" description="ViewHolder for kotlin Android extensions" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>
