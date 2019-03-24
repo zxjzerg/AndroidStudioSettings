@@ -1,5 +1,9 @@
 <scheme name="Dracula" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="modified">2019-03-24T12:12:35</property>
+    <property name="rainbow Default language">true</property>
+  </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
@@ -316,12 +320,7 @@
     <option name="DEFAULT_SEMICOLON">
       <value />
     </option>
-    <option name="DEFAULT_STATIC_FIELD">
-      <value>
-        <option name="FOREGROUND" value="f8f8f2" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
+    <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="f1fa8c" />
@@ -527,6 +526,11 @@
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
         <option name="BACKGROUND" value="242632" />
+      </value>
+    </option>
+    <option name="KOTLIN_ANDROID_EXTENSIONS_PROPERTY_CALL">
+      <value>
+        <option name="FOREGROUND" value="d4ff" />
       </value>
     </option>
     <option name="KOTLIN_ENUM_ENTRY">
