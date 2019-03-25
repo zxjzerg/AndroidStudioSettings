@@ -1,8 +1,9 @@
 <scheme name="Dracula" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2019-03-24T12:12:35</property>
+    <property name="modified">2019-03-25T09:03:47</property>
     <property name="rainbow Default language">true</property>
+    <property name="rainbow kotlin">false</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="13" />
