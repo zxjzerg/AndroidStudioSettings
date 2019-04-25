@@ -1,7 +1,7 @@
 <scheme name="Dracula" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2019-04-25T15:07:30</property>
+    <property name="modified">2019-04-25T16:01:18</property>
     <property name="rainbow Default language">true</property>
     <property name="rainbow kotlin">false</property>
   </metaInfo>
