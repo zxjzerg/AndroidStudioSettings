@@ -13,6 +13,7 @@
         <entry key="java.overridden" value="true" />
         <entry key="java.overriding" value="true" />
         <entry key="java.service" value="true" />
+        <entry key="java.sibling.inherited" value="true" />
       </map>
     </option>
   </component>
