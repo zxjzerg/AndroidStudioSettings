@@ -1,7 +1,6 @@
 <application>
   <component name="Plugin">
     <option name="agree" value="true" />
-    <option name="introdutionShowed" value="true" />
     <option name="userId" value="99485b15-fab9-4314-b231-5aab305356fc" />
   </component>
 </application>
