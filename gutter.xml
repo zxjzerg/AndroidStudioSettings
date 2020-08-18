@@ -2,7 +2,10 @@
   <component name="LineMarkerSettings">
     <option name="providers">
       <map>
+        <entry key="com.intellij.codeInsight.ExternalAnnotationLineMarkerProvider" value="true" />
         <entry key="com.intellij.codeInsight.ExternalAnnotationsLineMarkerProvider" value="true" />
+        <entry key="com.intellij.codeInsight.InferredContractAnnotationsLineMarkerProvider" value="false" />
+        <entry key="com.intellij.codeInsight.InferredNullabilityAnnotationsLineMarkerProvider" value="true" />
         <entry key="com.intellij.codeInsight.daemon.impl.IconLineMarkerProvider" value="true" />
         <entry key="com.intellij.codeInsight.daemon.impl.RecursiveCallLineMarkerProvider" value="true" />
         <entry key="com.intellij.execution.lineMarker.RunLineMarkerProvider" value="true" />
@@ -21,6 +24,7 @@
         <entry key="kotlin.implementing" value="true" />
         <entry key="kotlin.overridden" value="true" />
         <entry key="kotlin.overriding" value="true" />
+        <entry key="org.editorconfig.configmanagement.editor.EditorConfigPreviewMarkerProvider" value="true" />
       </map>
     </option>
   </component>
