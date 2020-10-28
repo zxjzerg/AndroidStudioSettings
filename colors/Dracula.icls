@@ -1,12 +1,12 @@
 <scheme name="Dracula" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2020-10-20T10:54:14</property>
+    <property name="modified">2020-10-28T16:19:38</property>
     <property name="rainbow kotlin">false</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="LINE_SPACING" value="1.1" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+    <option name="EDITOR_FONT_NAME" value="Courier" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
@@ -16,7 +16,6 @@
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Courier" />
   <option name="CONSOLE_FONT_SIZE" value="11" />
-  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="CARET_COLOR" value="cccccc" />
     <option name="CARET_ROW_COLOR" value="44475a" />
