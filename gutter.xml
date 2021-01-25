@@ -2,6 +2,7 @@
   <component name="LineMarkerSettings">
     <option name="providers">
       <map>
+        <entry key="RenderedDoc" value="true" />
         <entry key="com.intellij.codeInsight.ExternalAnnotationLineMarkerProvider" value="true" />
         <entry key="com.intellij.codeInsight.ExternalAnnotationsLineMarkerProvider" value="true" />
         <entry key="com.intellij.codeInsight.InferredContractAnnotationsLineMarkerProvider" value="false" />
