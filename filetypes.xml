@@ -6,7 +6,6 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="user_22270" type="DBN-SQL" />
     </extensionMap>
