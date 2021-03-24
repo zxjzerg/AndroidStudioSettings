@@ -16,12 +16,9 @@
         <package name="" alias="true" withSubpackages="true" />
       </value>
     </option>
-    <option name="WRAP_ELVIS_EXPRESSIONS" value="0" />
   </JetCodeStyleSettings>
-  <MarkdownNavigatorCodeStyleSettings>
-    <option name="RIGHT_MARGIN" value="72" />
-  </MarkdownNavigatorCodeStyleSettings>
   <codeStyleSettings language="XML">
+    <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
@@ -132,8 +129,5 @@
         </section>
       </rules>
     </arrangement>
-  </codeStyleSettings>
-  <codeStyleSettings language="kotlin">
-    <option name="FIELD_ANNOTATION_WRAP" value="1" />
   </codeStyleSettings>
 </code_scheme>
