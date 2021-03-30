@@ -1,7 +1,7 @@
 <scheme name="Dracula" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2021-03-04T18:43:20</property>
+    <property name="modified">2021-03-30T19:03:41</property>
     <property name="rainbow kotlin">false</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -11,11 +11,10 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Courier" />
-  <option name="CONSOLE_FONT_SIZE" value="11" />
   <colors>
     <option name="CARET_COLOR" value="cccccc" />
     <option name="CARET_ROW_COLOR" value="44475a" />
