@@ -11,6 +11,7 @@
         <entry key="com.intellij.codeInsight.daemon.impl.RecursiveCallLineMarkerProvider" value="true" />
         <entry key="com.intellij.execution.lineMarker.RunLineMarkerProvider" value="true" />
         <entry key="com.intellij.ui.ColorLineMarkerProvider" value="true" />
+        <entry key="io.flutter.editor.FlutterIconLineMarkerProvider" value="true" />
         <entry key="java.implemented" value="true" />
         <entry key="java.implementing" value="true" />
         <entry key="java.lambda" value="true" />
