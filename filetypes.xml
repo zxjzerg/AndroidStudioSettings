@@ -4,9 +4,9 @@
       <mapping ext="webp" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="mp4" type="Native" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <removed_mapping ext="mp4" approved="true" type="Native" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="user_22270" type="DBN-SQL" />
     </extensionMap>
