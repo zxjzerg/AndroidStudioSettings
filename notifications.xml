@@ -8,6 +8,7 @@
     <notification groupId="Enable google-java-format" displayType="NONE" />
     <notification groupId="Framework Detection" displayType="NONE" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
+    <notification groupId="JDK Location different to JAVA_HOME" displayType="NONE" shouldLog="false" />
     <notification groupId="Kotlin plugin updates" displayType="STICKY_BALLOON" shouldLog="false" />
   </component>
 </application>
