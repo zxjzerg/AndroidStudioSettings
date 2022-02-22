@@ -8,8 +8,19 @@
             <value value="AB717YDC01100119" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-22T01:30:16.591211Z" />
         <name value="emdoor EM_TK1032" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="VNX9X19A22004565" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-22T01:54:54.518684Z" />
+        <name value="HUAWEI SCM-W09" />
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
