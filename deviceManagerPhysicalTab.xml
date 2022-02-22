@@ -1,0 +1,18 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="AB717YDC01100119" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-22T01:30:16.591211Z" />
+        <name value="emdoor EM_TK1032" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
