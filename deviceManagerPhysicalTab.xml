@@ -35,6 +35,18 @@
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="4abf0ee6" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-27T06:45:43.750536Z" />
+        <name value="Xiaomi M2102K1AC" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
