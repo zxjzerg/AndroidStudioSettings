@@ -30,10 +30,9 @@
             <value value="cc93e5a6" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-27T07:08:01.355730Z" />
-        <name value="OnePlus ONEPLUS A5010" />
-        <target value="Android 10.0" />
-        <api value="29" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
