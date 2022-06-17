@@ -1,10 +1,45 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="Vcs.Push" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToolbarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Android Profiler" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <path value="Run/Debug" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ChangesView.ToggleCommitUi" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToolbarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Coverage" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <path value="Run/Debug" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Commit.Stage" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToolbarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="CheckinProject" is_action="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <path value="NavBarVcsGroup" />
-      <path value="VcsNavBarToobarActions" />
+      <path value="VcsNavBarToolbarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Android.SdkUpdates.NavBarToolBar" is_group="true" action_type="-1" position="2">
@@ -13,31 +48,24 @@
       <path value="Android.NavBarToolBar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Android.InstantRunActions" is_group="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <path value="Run/Debug" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Vcs.UpdateProject" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <path value="NavBarVcsGroup" />
-      <path value="VcsNavBarToobarActions" />
+      <path value="VcsNavBarToolbarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Android.RunAndroidAvdManager" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <path value="Android.NavBarToolBar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="VcsToolbarLabelAction" is_action="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="NavBarVcsGroup" />
-      <path value="VcsNavBarToobarActions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Compare.SameVersion" is_action="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="NavBarVcsGroup" />
-      <path value="VcsNavBarToobarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ViewBreakpoints" is_action="true" action_type="1" position="6">
