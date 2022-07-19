@@ -7,6 +7,7 @@
       <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="md" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="mp4" approved="true" type="Native" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping pattern=".gitignore_global" type="Git file" />
