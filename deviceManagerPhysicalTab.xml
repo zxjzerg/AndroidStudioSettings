@@ -8,9 +8,10 @@
             <value value="2af7123e" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-        <api value="1" />
+        <type value="WEAR_OS" />
+        <name value="XTC XTC Z5q" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -19,9 +20,9 @@
             <value value="cc93e5a6" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-        <api value="1" />
+        <name value="OnePlus ONEPLUS A5010" />
+        <target value="Android 10.0" />
+        <api value="29" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
