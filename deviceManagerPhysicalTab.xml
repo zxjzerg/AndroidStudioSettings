@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="cc93e5a6" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5010" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="2af7123e" />
           </Key>
         </key>
@@ -12,17 +23,6 @@
         <name value="XTC XTC Z5q" />
         <target value="Android 7.1.1" />
         <api value="25" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="cc93e5a6" />
-          </Key>
-        </key>
-        <name value="OnePlus ONEPLUS A5010" />
-        <target value="Android 10.0" />
-        <api value="29" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
