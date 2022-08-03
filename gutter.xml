@@ -29,6 +29,11 @@
         <entry key="kotlin.overridden" value="true" />
         <entry key="kotlin.overriding" value="true" />
         <entry key="org.editorconfig.configmanagement.editor.EditorConfigPreviewMarkerProvider" value="true" />
+        <entry key="org.intellij.plugins.markdown.editor.images.ConfigureHtmlImageLineMarkerProvider" value="true" />
+        <entry key="org.intellij.plugins.markdown.editor.images.ConfigureMarkdownImageLineMarkerProvider" value="true" />
+        <entry key="org.intellij.plugins.markdown.editor.images.ConfigureTextHtmlImageLineMarkerProvider" value="true" />
+        <entry key="org.intellij.plugins.markdown.extensions.common.plantuml.PlantUMLCodeFenceDownloadLineMarkerProvider" value="true" />
+        <entry key="org.intellij.plugins.markdown.extensions.jcef.mermaid.MermaidCodeFenceDownloadLineMarkerProvider" value="true" />
       </map>
     </option>
   </component>
