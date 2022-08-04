@@ -1,5 +1,15 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="GoogleLogin.LoginService" is_action="true" action_type="-1" position="14">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GoogleLogin.LoginService" is_action="true" action_type="-1" position="9">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Vcs.Push" is_action="true" action_type="-1" position="5">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
