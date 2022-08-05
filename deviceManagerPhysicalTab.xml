@@ -80,6 +80,18 @@
         <target value="Android 7.1.1" />
         <api value="25" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="2b1adffa" />
+          </Key>
+        </key>
+        <type value="WEAR_OS" />
+        <name value="XTC XTC_Z2y" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
