@@ -25,4 +25,7 @@
     <variable name="height" expression="" defaultValue="wrap_content" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="distNs" value="xmlns:dist=&quot;http://schemas.android.com/apk/distribution&quot;" description="Adds distribution namespace" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>

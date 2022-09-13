@@ -1,0 +1,8 @@
+<templateSet group="Dart">
+  <template name="lottie" value="Lottie.asset(&#10;    &quot;$PATH$&quot;,&#10;    repeat: true,&#10;    package: &quot;panda_presentation_common&quot;,&#10;)," toReformat="true" toShortenFQNames="true">
+    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
