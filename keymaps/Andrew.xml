@@ -1,4 +1,7 @@
 <keymap version="1" name="Andrew" parent="Eclipse (Mac OS X)">
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
   <action id="ActivateBuildToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
@@ -128,7 +131,6 @@
     <keyboard-shortcut first-keystroke="shift meta semicolon" />
   </action>
   <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="shift ctrl up" />
     <keyboard-shortcut first-keystroke="meta w" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
@@ -136,12 +138,15 @@
   <action id="EditorToggleShowGutterIcons">
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
+  <action id="EditorUnSelectWord" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl p" />
     <keyboard-shortcut first-keystroke="meta p" />
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
+  <action id="EmojiAndSymbols" />
+  <action id="Exit" />
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
@@ -235,12 +240,6 @@
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="IntroduceParameter" />
-  <action id="JumpToLastWindow">
-    <keyboard-shortcut first-keystroke="shift ctrl left" />
-  </action>
-  <action id="Kotlin.NewFile">
-    <keyboard-shortcut first-keystroke="shift ctrl n" />
-  </action>
   <action id="Maven.CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
@@ -267,16 +266,15 @@
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
   <action id="NewScratchFile" />
+  <action id="NextDiff" />
   <action id="NextEditorTab">
     <keyboard-shortcut first-keystroke="ctrl z" />
-    <keyboard-shortcut first-keystroke="shift ctrl right" />
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt tab" />
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="ParameterInfo">
-    <keyboard-shortcut first-keystroke="shift ctrl space" />
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="PrevSplitter">
@@ -299,6 +297,7 @@
   </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="RestoreDefaultLayout" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift meta f11" />
     <keyboard-shortcut first-keystroke="f10" />
@@ -315,6 +314,7 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="ShowBookmarks" />
+  <action id="ShowContent" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
@@ -374,6 +374,7 @@
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
+  <action id="UpdateRunningApplication" />
   <action id="Vcs.Log.GoToRef" />
   <action id="Vcs.Log.ShowAllAffected" />
   <action id="Vcs.Push" />
