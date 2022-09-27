@@ -1,10 +1,8 @@
 <application>
   <component name="UISettings">
     <option name="compactTreeIndents" value="true" />
-    <option name="EDITOR_AA_TYPE" value="Greyscale" />
     <option name="EDITOR_TAB_PLACEMENT" value="0" />
     <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
-    <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="24" />
     <option name="MAX_LOOKUP_WIDTH2" value="662" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
