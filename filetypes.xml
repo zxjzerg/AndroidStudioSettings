@@ -11,6 +11,7 @@
       <removed_mapping ext="mp4" approved="true" type="Native" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping pattern=".analysis_options" approved="true" type="YAML" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="user_22270" type="DBN-SQL" />
     </extensionMap>
