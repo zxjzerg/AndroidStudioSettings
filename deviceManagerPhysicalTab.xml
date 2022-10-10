@@ -10,7 +10,7 @@
         </key>
         <name value="OnePlus ONEPLUS A5010" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -22,7 +22,7 @@
         <type value="WEAR_OS" />
         <name value="XTC XTC Z5q" />
         <target value="Android 7.1.1" />
-        <api value="25" />
+        <api value="androidversion:25:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -33,7 +33,7 @@
         </key>
         <name value="emdoor EM_TK1032" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -44,7 +44,7 @@
         </key>
         <name value="HUAWEI SCM-W09" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -55,7 +55,7 @@
         </key>
         <name value="Xiaomi M2102K1AC" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -66,7 +66,7 @@
         </key>
         <name value="HUAWEI BAH-W09" />
         <target value="Android 7.0" />
-        <api value="24" />
+        <api value="androidversion:24:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -78,7 +78,7 @@
         <type value="WEAR_OS" />
         <name value="XTC XTC Z5q" />
         <target value="Android 7.1.1" />
-        <api value="25" />
+        <api value="androidversion:25:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -90,7 +90,7 @@
         <type value="WEAR_OS" />
         <name value="XTC XTC_Z2y" />
         <target value="Android 7.1.1" />
-        <api value="25" />
+        <api value="androidversion:25:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -101,7 +101,18 @@
         </key>
         <name value="HUAWEI VOG-AL00" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="93EAY0A3RY" />
+          </Key>
+        </key>
+        <name value="Google Pixel 3a" />
+        <target value="Android 12L" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
