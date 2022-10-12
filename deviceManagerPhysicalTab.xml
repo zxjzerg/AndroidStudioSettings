@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="93EAY0A3RY" />
+          </Key>
+        </key>
+        <name value="Google Pixel 3a" />
+        <target value="Android 12L" />
+        <api value="androidversion:32:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="cc93e5a6" />
           </Key>
         </key>
@@ -107,12 +118,12 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="93EAY0A3RY" />
+            <value value="UQG5T20402004880" />
           </Key>
         </key>
-        <name value="Google Pixel 3a" />
-        <target value="Android 12L" />
-        <api value="androidversion:32:null:null:true" />
+        <name value="HUAWEI ELS-AN00" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
