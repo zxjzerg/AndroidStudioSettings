@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="09041JEC203467" />
+          </Key>
+        </key>
+        <name value="Google Pixel 4a" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="93EAY0A3RY" />
           </Key>
         </key>
