@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="cc93e5a6" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5010" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="09041JEC203467" />
           </Key>
         </key>
@@ -22,17 +33,6 @@
         <name value="Google Pixel 3a" />
         <target value="Android 12L" />
         <api value="androidversion:32:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="cc93e5a6" />
-          </Key>
-        </key>
-        <name value="OnePlus ONEPLUS A5010" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
