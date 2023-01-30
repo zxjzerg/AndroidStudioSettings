@@ -1,0 +1,8 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
+  <action id="GotoBookmark3" />
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="SmartTypeCompletion" />
+</keymap>
