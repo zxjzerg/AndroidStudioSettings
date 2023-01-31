@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="message:&quot;Updating&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="message:&quot;Updating&quot;" />
+        <option value="Updating window insets" />
         <option value="package:mine " />
         <option value="package:mine -message:Updating window insets" />
       </list>
