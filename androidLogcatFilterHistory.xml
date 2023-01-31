@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine -message:Updating window insets" />
       </list>
     </option>
   </component>
