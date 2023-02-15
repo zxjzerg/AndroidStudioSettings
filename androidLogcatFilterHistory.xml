@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value=" level:error " />
+    <option name="mostRecentlyUsed" value="package:com.youdao.yread " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.youdao.yread " />
+        <option value="package:" />
         <option value=" level:error " />
         <option value="package:com.youdao.yread level:error " />
-        <option value="package:com.youdao.yread " />
         <option value="package:mine " />
         <option value="message:&quot;Updating&quot;" />
         <option value="Updating window insets" />
