@@ -67,15 +67,15 @@
       <path value="VcsNavBarToolbarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Android.RunAndroidAvdManager" is_action="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="Android.NavBarToolBar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="ViewBreakpoints" is_action="true" action_type="1" position="6">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Flutter.Toolbar.RestartAction" is_action="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
