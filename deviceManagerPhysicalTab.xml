@@ -190,6 +190,17 @@
         <name value="Device" />
         <target value="Android 1.0" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="cda29469" />
+          </Key>
+        </key>
+        <name value="Xiaomi MIX 2" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
