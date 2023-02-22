@@ -4,18 +4,18 @@
     <property name="created">2022-12-21T09:35:16</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.3.1.17</property>
-    <property name="modified">2022-12-21T11:12:49</property>
+    <property name="modified">2023-02-22T08:53:00</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Input Mono" />
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.1" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="48b764" />
     <option name="ANNOTATIONS_COLOR" value="282a35" />
