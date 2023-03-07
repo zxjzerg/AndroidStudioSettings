@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="16:18:00.643" />
-        <option value="package:com.youdao.yread" />
         <option value="package:mine " />
         <option value="package:com.youdao.yread " />
+        <option value="16:18:00.643" />
+        <option value="package:com.youdao.yread" />
         <option value="package:mine" />
         <option value="Lost connection to device." />
         <option value="flutter" />
