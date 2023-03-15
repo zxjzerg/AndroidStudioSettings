@@ -295,6 +295,9 @@
   <action id="RenameFavoritesList">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="RestoreDefaultLayout" />
@@ -375,6 +378,7 @@
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
   <action id="UpdateRunningApplication" />
+  <action id="UsageFiltering.ReadAccess" />
   <action id="Vcs.Log.GoToRef" />
   <action id="Vcs.Log.ShowAllAffected" />
   <action id="Vcs.Push" />
