@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.youdao.yread " />
+    <option name="mostRecentlyUsed" value="package:com.youdao.yread WebView" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.youdao.yread WebView" />
         <option value="package:com.youdao.yread " />
         <option value="error" />
         <option value="package:com.youdao.yread error" />
