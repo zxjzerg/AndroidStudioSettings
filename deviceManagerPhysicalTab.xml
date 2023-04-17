@@ -201,6 +201,17 @@
         <target value="Android 9.0" />
         <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="A127CS030000000051" />
+          </Key>
+        </key>
+        <name value="A127CS" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
