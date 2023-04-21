@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.youdao.yread HubbleEventReporter" />
+    <option name="mostRecentlyUsed" value="package:com.youdao.yread" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.youdao.yread" />
         <option value="package:com.youdao.yread HubbleEventReporter" />
         <option value="package:com.youdao.yread extime" />
-        <option value="package:com.youdao.yread" />
         <option value="package:com.youdao.yread book_extime" />
         <option value="package:com.youdao.yread " />
         <option value="package:mine " />
