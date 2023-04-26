@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.youdao.yread" />
+    <option name="mostRecentlyUsed" value="package:com.youdao.yread interaction" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.youdao.yread interaction" />
         <option value="package:com.youdao.yread" />
         <option value="package:com.youdao.yread HubbleEventReporter" />
         <option value="package:com.youdao.yread extime" />
@@ -22,7 +23,6 @@
         <option value="package:" />
         <option value="package:com.youdao.yread level:error " />
         <option value="message:&quot;Updating&quot;" />
-        <option value="Updating window insets" />
       </list>
     </option>
   </component>
