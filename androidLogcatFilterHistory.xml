@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.youdao.yread atPreviousInteraction" />
+    <option name="mostRecentlyUsed" value="package:com.youdao.yread" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.youdao.yread atPreviousInteraction" />
-        <option value="package:com.youdao.yread " />
         <option value="package:com.youdao.yread" />
+        <option value="package:com.youdao.yread atNextInteraction, result: " />
+        <option value="package:com.youdao.yread atPreviousInteraction, result" />
+        <option value="package:com.youdao.yread " />
+        <option value="package:com.youdao.yread atPreviousInteraction" />
         <option value="package:com.youdao.yread vocabula" />
         <option value="package:com.youdao.yread picture" />
         <option value="package:com.youdao.yread interaction" />
@@ -21,8 +23,6 @@
         <option value=" level:error " />
         <option value="16:18:00.643" />
         <option value="package:mine" />
-        <option value="Lost connection to device." />
-        <option value="flutter" />
       </list>
     </option>
   </component>
