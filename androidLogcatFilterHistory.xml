@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.youdao.yread picture" />
+    <option name="mostRecentlyUsed" value="package:com.youdao.yread" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.youdao.yread picture" />
         <option value="package:com.youdao.yread" />
+        <option value="package:com.youdao.yread picture" />
         <option value="package:com.youdao.yread interaction" />
         <option value="package:com.youdao.yread HubbleEventReporter" />
         <option value="package:com.youdao.yread extime" />
