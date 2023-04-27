@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.youdao.yread" />
+        <option value="package:com.youdao.yread vocabula" />
         <option value="package:com.youdao.yread picture" />
         <option value="package:com.youdao.yread interaction" />
         <option value="package:com.youdao.yread HubbleEventReporter" />
@@ -22,7 +23,6 @@
         <option value="Lost connection to device." />
         <option value="flutter" />
         <option value="package:" />
-        <option value="package:com.youdao.yread level:error " />
       </list>
     </option>
   </component>
