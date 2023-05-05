@@ -15,8 +15,8 @@
         <entry key="com.intellij.codeInsight.daemon.impl.RecursiveCallLineMarkerProvider" value="true" />
         <entry key="com.intellij.execution.lineMarker.RunLineMarkerProvider" value="true" />
         <entry key="com.intellij.ui.ColorLineMarkerProvider" value="true" />
-        <entry key="devkit.beforeAfter" value="true" />
-        <entry key="devkit.description" value="true" />
+        <entry key="devkit.beforeAfter" value="false" />
+        <entry key="devkit.description" value="false" />
         <entry key="disable.dagger" value="true" />
         <entry key="io.flutter.editor.FlutterIconLineMarkerProvider" value="true" />
         <entry key="java.implemented" value="true" />
@@ -40,9 +40,9 @@
         <entry key="org.intellij.plugins.markdown.extensions.common.plantuml.PlantUMLCodeFenceDownloadLineMarkerProvider" value="true" />
         <entry key="org.intellij.plugins.markdown.extensions.jcef.mermaid.MermaidCodeFenceDownloadLineMarkerProvider" value="true" />
         <entry key="org.jetbrains.idea.devkit.navigation.ExtensionDeclarationRelatedItemLineMarkerProvider" value="true" />
-        <entry key="org.jetbrains.idea.devkit.navigation.PluginDescriptorDeclarationRelatedItemLineMarkerProvider" value="true" />
-        <entry key="org.jetbrains.idea.devkit.references.DevKitRelatedPropertiesProvider" value="true" />
-        <entry key="org.jetbrains.idea.devkit.testAssistant.TestDataLineMarkerProvider" value="true" />
+        <entry key="org.jetbrains.idea.devkit.navigation.PluginDescriptorDeclarationRelatedItemLineMarkerProvider" value="false" />
+        <entry key="org.jetbrains.idea.devkit.references.DevKitRelatedPropertiesProvider" value="false" />
+        <entry key="org.jetbrains.idea.devkit.testAssistant.TestDataLineMarkerProvider" value="false" />
       </map>
     </option>
   </component>
