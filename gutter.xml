@@ -2,6 +2,7 @@
   <component name="LineMarkerSettings">
     <option name="providers">
       <map>
+        <entry key="PbCodeImplementationLineMarkerProvider" value="true" />
         <entry key="RenderedDoc" value="true" />
         <entry key="com.android.tools.idea.compose.annotator.ComposePreviewPickerAnnotator" value="true" />
         <entry key="com.android.tools.idea.compose.annotator.PreviewPickerLineMarkerProvider" value="true" />
@@ -39,6 +40,7 @@
         <entry key="org.intellij.plugins.markdown.extensions.common.plantuml.PlantUMLCodeFenceDownloadLineMarkerProvider" value="true" />
         <entry key="org.intellij.plugins.markdown.extensions.jcef.mermaid.MermaidCodeFenceDownloadLineMarkerProvider" value="true" />
         <entry key="org.jetbrains.idea.devkit.navigation.ExtensionDeclarationRelatedItemLineMarkerProvider" value="true" />
+        <entry key="org.jetbrains.idea.devkit.navigation.PluginDescriptorDeclarationRelatedItemLineMarkerProvider" value="true" />
         <entry key="org.jetbrains.idea.devkit.references.DevKitRelatedPropertiesProvider" value="true" />
         <entry key="org.jetbrains.idea.devkit.testAssistant.TestDataLineMarkerProvider" value="true" />
       </map>
