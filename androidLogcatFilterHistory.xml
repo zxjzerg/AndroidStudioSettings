@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.youdao.yread " />
+    <option name="mostRecentlyUsed" value="package:com.youdao.yread hubble" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.youdao.yread hubble" />
         <option value="package:com.youdao.yread " />
         <option value="package:com.youdao.yread atInteractionAllComplete" />
         <option value="package:com.youdao.yread" />
@@ -22,7 +23,6 @@
         <option value="package:com.youdao.yread onWillAccept" />
         <option value="level:error " />
         <option value=" level:error " />
-        <option value="16:18:00.643" />
       </list>
     </option>
   </component>
