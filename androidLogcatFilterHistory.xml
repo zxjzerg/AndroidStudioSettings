@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.youdao.yread " />
+    <option name="mostRecentlyUsed" value="package:com.youdao.yread logEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.youdao.yread logEvent" />
+        <option value="package:com.youdao.yread hubble" />
         <option value="package:com.youdao.yread " />
         <option value="com.youdao.yread" />
         <option value="package:com.youdao.yread AppLifecycleState" />
         <option value="package:com.youdao.yread" />
         <option value="package:com.youdao.yread startpage" />
-        <option value="package:com.youdao.yread hubble" />
         <option value="package:com.youdao.yread atInteractionAllComplete" />
         <option value="package:com.youdao.yread atNextInteraction, result: " />
         <option value="package:com.youdao.yread atPreviousInteraction, result" />
@@ -22,7 +23,6 @@
         <option value="package:mine " />
         <option value="package:com.youdao.yread WebView" />
         <option value="error" />
-        <option value="package:com.youdao.yread error" />
       </list>
     </option>
   </component>
