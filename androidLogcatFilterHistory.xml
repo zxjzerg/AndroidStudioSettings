@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.youdao.yread logEvent" />
+    <option name="mostRecentlyUsed" value="package:com.youdao.yread" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.youdao.yread" />
         <option value="package:com.youdao.yread logEvent" />
         <option value="package:com.youdao.yread hubble" />
         <option value="package:com.youdao.yread " />
         <option value="com.youdao.yread" />
         <option value="package:com.youdao.yread AppLifecycleState" />
-        <option value="package:com.youdao.yread" />
         <option value="package:com.youdao.yread startpage" />
         <option value="package:com.youdao.yread atInteractionAllComplete" />
         <option value="package:com.youdao.yread atNextInteraction, result: " />
