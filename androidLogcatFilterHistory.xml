@@ -3,10 +3,13 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="exercise_finish" />
         <option value="package:com.youdao.yread" />
+        <option value="package:com.youdao.yread exercise_finish" />
+        <option value="package:com.youdao.yread finish" />
+        <option value="package:com.youdao.yread " />
         <option value="package:com.youdao.yread logEvent" />
         <option value="package:com.youdao.yread hubble" />
-        <option value="package:com.youdao.yread " />
         <option value="com.youdao.yread" />
         <option value="package:com.youdao.yread AppLifecycleState" />
         <option value="package:com.youdao.yread startpage" />
@@ -20,9 +23,6 @@
         <option value="package:com.youdao.yread HubbleEventReporter" />
         <option value="package:com.youdao.yread extime" />
         <option value="package:com.youdao.yread book_extime" />
-        <option value="package:mine " />
-        <option value="package:com.youdao.yread WebView" />
-        <option value="error" />
       </list>
     </option>
   </component>
