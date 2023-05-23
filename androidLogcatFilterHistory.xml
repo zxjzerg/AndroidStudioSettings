@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:com.youdao.yread Flutter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.youdao.yread Flutter" />
         <option value="package:com.youdao.yread " />
         <option value="exercise_finish" />
         <option value="package:com.youdao.yread" />
@@ -22,7 +23,6 @@
         <option value="package:com.youdao.yread interaction" />
         <option value="package:com.youdao.yread HubbleEventReporter" />
         <option value="package:com.youdao.yread extime" />
-        <option value="package:com.youdao.yread book_extime" />
       </list>
     </option>
   </component>
